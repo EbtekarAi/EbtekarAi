@@ -22,7 +22,7 @@
 
 [![Website](https://img.shields.io/badge/ebtekarai.ir-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ebtekarai.ir)
 [![Developer guide](https://img.shields.io/badge/Developer%20Guide-38E8FF?style=for-the-badge&logo=readthedocs&logoColor=0A0D1C)](https://github.com/EbtekarAi/ebtekar-ai/blob/main/docs/developers.md)
-[![راهنمای فارسی](https://img.shields.io/badge/راهنمای%20فارسی-4F46E5?style=for-the-badge&logo=readthedocs&logoColor=white)](https://github.com/EbtekarAi/ebtekar-ai/blob/main/docs/developers.fa.md)
+[![Persian Guide](https://img.shields.io/badge/Persian%20Guide-4F46E5?style=for-the-badge&logo=readthedocs&logoColor=white)](https://github.com/EbtekarAi/ebtekar-ai/blob/main/docs/developers.fa.md)
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/EbtekarAi)
 
 </div>
